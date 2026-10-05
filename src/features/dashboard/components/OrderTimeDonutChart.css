@@ -1,0 +1,36 @@
+.order-time-donut-chart {
+  width: min(100%, 192px);
+  min-width: 0;
+  aspect-ratio: 1;
+  margin: auto;
+}
+
+.order-time-tooltip {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-width: 140px;
+  min-height: 109px;
+  padding: 12px;
+  border-radius: 5px;
+  background: #37365d;
+  color: #fff;
+  font-size: 11px;
+  line-height: 16px;
+  box-shadow: 0 4px 12px rgb(31 56 76 / 12%);
+}
+
+.order-time-tooltip__period {
+  font-weight: 500;
+}
+
+.order-time-tooltip__time {
+  color: rgb(255 255 255 / 60%);
+}
+
+.order-time-tooltip strong {
+  margin-top: 5px;
+  font-size: 14px;
+  font-weight: 500;
+  line-height: 18px;
+}

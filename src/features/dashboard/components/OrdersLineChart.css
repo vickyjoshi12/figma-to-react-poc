@@ -1,0 +1,9 @@
+.orders-line-chart {
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 312px;
+  min-width: 0;
+  height: 141px;
+  border-top: 1px solid var(--dashboard-divider);
+  border-bottom: 1px solid var(--dashboard-divider);
+}
