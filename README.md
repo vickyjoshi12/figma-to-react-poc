@@ -2,6 +2,10 @@
 
 A React and TypeScript dashboard proof of concept based on the Goodfood dashboard design in Figma. The current screen includes the dashboard shell, five dashboard sections, and Revenue, Order Time, and Order charts.
 
+## How this project was built
+
+This POC was built using AI development tools: GitHub Copilot in VS Code, connected to the Figma design through the Figma MCP server. The implementation was developed from the Figma reference and the engineering prompts in `prompts-notes/`.
+
 ## Design reference
 
 - [Open the dashboard in Figma](https://www.figma.com/design/G4D4tulIug9IkYjlNuPZHU/Dashboard--Community-?node-id=0-61)
